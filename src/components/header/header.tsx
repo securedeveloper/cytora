@@ -3,7 +3,7 @@ import HomeIcon from '@mui/icons-material/Home';
 import { LinkBehavior } from "../../theme";
 import { Button } from "../button/Button";
 import FavoriteIcon from '@mui/icons-material/Favorite';
-import { useLocation, useParams } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import { ReactNode } from "react";
 import { Bloodtype, Explore, Movie, Person, RocketLaunch, Search, Snowmobile } from "@mui/icons-material";
 import { SearchBar } from "../search/SearchBar";
